@@ -1,1 +1,3 @@
 title: "Steve Anderson"
+exclude:
+  - docker-compose.yml
