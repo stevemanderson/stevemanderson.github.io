@@ -1,3 +1,28 @@
+html {
+  font-size: 125%;
+  -webkit-text-size-adjust: none;
+
+  @media (min-width: 320px) {
+    font-size: 320/400em;
+  }
+
+  @media (min-width: 480px) {
+    font-size: 480/400em;
+  }
+  @media (min-width: 600px) {
+    font-size: 600/400em;
+  }
+  @media (min-width: 801px) {
+    font-size: 801/400em;
+  }
+  @media (min-width: 1025px) {
+    font-size: 1025/400em;
+  }
+  @media (min-width: 1281px) {
+    font-size: 1281/400em;
+  }
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -8,6 +33,7 @@ body {
 
 a {
   color: #0366d6;
+  font-size: 1em;
 }
 
 code,
