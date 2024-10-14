@@ -19,7 +19,7 @@ I have my homelab I have been keeping up since 2018 with some significant change
 I'll probably add some nostalgia posts about it and then move on to the low power raspberry pi setup and home assistent.
 
 There's a prethora of other random things that catch my attention and take up a few weekends which sometimes amount to some
-junk sitting on a shelf but that's worth while non-the-less.
+junk sitting on a shelf but that's worth while none-the-less.
 
 Jekyll provides a really light weight but powerful engine for all my needs. Usually my flow is to focus on the design and 
 layout however, I have found that workflow stalls me and causes me to work on the engine instead of driving the car. So,
